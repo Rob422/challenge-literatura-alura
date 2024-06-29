@@ -5,6 +5,7 @@ Este proyecto se basa en el los criterios del Challenge Literatura de
 alura, donde se consume la api de Gutendex para obtener datos de libros.
 
 
+
 |----------       BIENVENIDO A LIBRERIA ALLURA      ----------|
 
 
@@ -28,6 +29,7 @@ alura, donde se consume la api de Gutendex para obtener datos de libros.
 
 
 |-----------           INGRESE UNA OPCIÓN          -----------|
+
 
 
 
