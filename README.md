@@ -31,4 +31,4 @@ alura, donde se consume la api de Gutendex para obtener datos de libros.
 
 
 
-Por motivos de estar escaso de tiempo proximamente estaré ampliando detalles del proyecto pero estoy escaso de tiempo para entregar el desafío siguiente.- 
+Por motivos de tiempo proximamente estaré ampliando detalles del proyecto, pero estoy escaso de tiempo para entregar el desafío siguiente.- 
