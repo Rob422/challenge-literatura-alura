@@ -1,8 +1,7 @@
 # challenge-literatura-alura
  desafío literatura de Alura
 
-Este proyecto se basa en el los criterios del Challenge Literatura de 
-alura, donde se consume la api de Gutendex para obtener datos de libros.
+Este proyecto se basa en el los criterios del Challenge Literatura de Alura, donde se consume la api de Gutendex para obtener datos de libros.
 
 
 
