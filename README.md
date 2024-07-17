@@ -33,4 +33,4 @@ Este proyecto se basa en el los criterios del Challenge Literatura de Alura, don
 
 
 
-***A los evaluadores: Por motivos de tiempo proximamente estaré ampliando detalles del proyecto, está completo y funciona perfectamente según lo requerido, pero estoy escaso de tiempo y necesito entregar el desafío siguiente.- ***
+***Próximamente ampliando detalles en el readme***
